@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 django = "^5.1.5"
 django-sage-blog = "^0.2.9"
+django-phonenumber-field = "^8.0.0"
+phonenumbers = "^8.13.54"
 
 
 [build-system]

@@ -41,9 +41,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "django_jsonform",
     'django_ckeditor_5',
+    "phonenumber_field",
     'import_export',
     "sage_seo",
     "sage_blog",
+    "corporate",
 ]
 
 MIDDLEWARE = [
